@@ -33,6 +33,8 @@ CREATE TABLE properties (
   active BOOLEAN
 );
 
+ 1010000 | 2021-04-30 | 2021-05-18 |         841
+
 CREATE TABLE reservations (
   id SERIAL PRIMARY KEY NOT NULL,
   start_date DATE,
